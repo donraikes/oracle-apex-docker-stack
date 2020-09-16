@@ -7,3 +7,6 @@
 # Software files
 *.zip
 *.tar.gz
+
+# log files
+*.log
